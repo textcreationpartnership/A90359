@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rumps last vvill &amp; testament which the executors herein named (being out of hopes of the monster's recovery) have thought good to publish and exhibite.</title>
+            <author>S. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90359</idno>
+            <idno type="STC">Wing P106</idno>
+            <idno type="STC">Thomason E1017_12</idno>
+            <idno type="STC">ESTC R207968</idno>
+            <idno type="EEBO-CITATION">99866981</idno>
+            <idno type="PROQUEST">99866981</idno>
+            <idno type="VID">119271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rumps last vvill &amp; testament which the executors herein named (being out of hopes of the monster's recovery) have thought good to publish and exhibite.</title>
+                  <author>S. P.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Tailor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: S.P.</note>
+                  <note>Annotation on Thomason copy: "March. 14 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th Century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119271:1" rendition="simple:additions"/>
+            <p>THE RVMPS Laſt Will &amp; Testament WHICH THE EXECUTORS Herein Named (being out of hopes of the MONSTER'S Reco<g ref="char:EOLhyphen"/>very) have thought good to publiſh and exhibite.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted by <hi>John Tailor,</hi> 1660.</p>
+            <pb facs="tcp:119271:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="satirical_will_and_testament">
+            <pb n="3" facs="tcp:119271:2"/>
+            <head>THE RUMPS <hi>Laſt Will and Teſtament,</hi>
+            </head>
+            <p>VVhich the Executors herein na<g ref="char:EOLhyphen"/>med, being out of hopes of the MONSTERS recovery, have thought good to publiſh and exhibite,</p>
+            <p>IN the NAME of <hi>OLD NICK</hi> and Sir <hi>Arthur, So be it:</hi> The day of our declining Condition, and (to our grief be it ſpoken) we fear in that <hi>Plato<g ref="char:EOLhyphen"/>nical Year,</hi> wherein all Things are like to come <hi>Round:</hi> We the wretched <hi>R<g ref="char:V">Ʋ</g>MP</hi> of a Long <hi>Parliament,</hi> at firſt Legally <hi>Elected,</hi> but ſince mi<g ref="char:EOLhyphen"/>ſerably <hi>Degenerated,</hi> having ſcarce ever a good quality,
+<pb n="4" facs="tcp:119271:3"/>
+and finding a daily decay in our ſelves, both of <hi>Wit</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Honeſty,</hi> having a long time ſtunk above ground, do call to remembrance the uncertain eſtate of our <hi>Noyſom Con<g ref="char:EOLhyphen"/>tinuance,</hi> and that the <hi>R<g ref="char:V">Ʋ</g>MP</hi> muſt yield to diſſolution, when it ſhall pleaſe we to our ſorrow know whom to call; and being deſirous (according to our old wont) to put things in diſorder, do make, conſtitute, ordain and de<g ref="char:EOLhyphen"/>clare this our laſt wickedneſs, in manner and form fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>And firſt, being penitent and ſorry from the very bot<g ref="char:EOLhyphen"/>tom of our <hi>Fundament,</hi> that we were not ten times worſe then we are moſt humbly defiring forgiveneſs for the ſame, we permit our ſtinking <hi>R<g ref="char:V">Ʋ</g>MP</hi> to the Cloſe-Stool, where we deſire (but are ſo much like Infidels that we cannot believe) to be preſerved till that joyfull day of our <hi>third Reſurrection,</hi> with our <hi>RVMP</hi> up<g ref="char:EOLhyphen"/>ward in token of <hi>good Luck,</hi> and through the Induſtry and power of ſome ſeditious <hi>Sectaries,</hi> and Jeſuitical Impoſtors poſſeſs and Inherit the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> prepared we fear for a better purpoſe. And now for the ſetling of our real exacted Eſtates, and ill gotten goods, which the Devil (who uſually to his power helps his ſervants) hath pretended to be<g ref="char:EOLhyphen"/>ſtow upon us; we do Order give and diſpoſe of them in manner and forme following (that is to ſay) we Will that all thoſe Debts and Duties, either upon the Publique Faith, or otherwiſe, which we owe in Right or Conſcience to any manner of perſon or perſons whatſoever, ſhall never by our Conſent be truly content<g ref="char:EOLhyphen"/>ed or Paid, or Ordained to be paid at any time or times after Our Deceaſe by our Executors hereafter named.</p>
+            <p>
+               <hi>ITEM.</hi> We give and bequeath all thoſe Lands now in our Poſ<g ref="char:EOLhyphen"/>ſeſſion,
+<pb n="5" facs="tcp:119271:3"/>
+commonly called, or known by the name of <hi>Good Conſcience,</hi> which we enjoyed before the late times of Temptation, to be equally divided amongſt ſuch as intend to turn Knaves with the firſt opportunity.</p>
+            <p>
+               <hi>ITEM.</hi> We give and bequeath all other our Lands, being ten times the value of the former, which we raiſed out of the ruines of our Country, to be ſhared amongſt our Inſtru<g ref="char:EOLhyphen"/>ments of oppreſſion, to the intent that they may pray heartily for our next Reſurrection, and not to ceaſe un<g ref="char:EOLhyphen"/>leſs the Lands aforeſaid revert to the Right Owners.</p>
+            <p>
+               <hi>ITEM.</hi> We give and bequeath all our broken Ware, as <hi>Oaths, Proteſtations, Solemn Leagues</hi> and <hi>Covenants,</hi> to whomſo<g ref="char:EOLhyphen"/>ever will take them, being like to prove troubleſom ſtuff in another World.</p>
+            <p>
+               <hi>ITEM.</hi> (Becauſe we know not how to avoid it) we give and bequeath to General <hi>MONK</hi> the Keys of our <hi>Shop of Iniquity</hi> (as we have made is) at <hi>Weſtminſter,</hi> in Order to the Letting in of the ſecluded Members; and with them all the Curſes we are able to pronounce for his preſumpti<g ref="char:EOLhyphen"/>on in being more honeſt then our ſelves.</p>
+            <p>
+               <hi>ITEM.</hi> To all his honeſt Officers and Souldiers we give and bequeath for the finding ſome few <hi>Trifles</hi> which we lately utterly loſt (to wit) the Love, Good will, and Well<g ref="char:EOLhyphen"/>wiſhes of the people.</p>
+            <p>
+               <pb n="6" facs="tcp:119271:4"/>
+               <hi>ITEM,</hi> VVe give and bequeath our late Knack of Extortion in Folio (being for ſix moneths Aſſeſsment, not like to be paid by our Order) to be foulded in Quarto, and imployed only to backſide ſervice, in remembrance of the <hi>RVMP:</hi>
+            </p>
+            <p>
+               <hi>ITEM.</hi> Our VVILL further is, that <hi>Haberdaſhers</hi> Hall be hanged round with mourning, in order to the celebra<g ref="char:EOLhyphen"/>tion of our Obſequies, and that our two late Knacks of Sequeſtration (more dear to us then the Bible) be cut into Eſcutcheons and hanged about about Our Herſe, and that every O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fi-cer there, lately gaping for Preferment, have a lighted Torch put in his mouth, ready to dance attendance upon our <hi>RVMP-SHIPS</hi> to <hi>Charon</hi>'s Boat; and that <hi>Jack Lambert,</hi> late Maſter of miſ-rule, and Ring-leader of the Phanatiques, be during this Solemnization Maſter of the Ceremonies.</p>
+            <p>
+               <hi>ITEM.</hi> Our VVILL further is, that all <hi>Buttons</hi> made by the <hi>R<g ref="char:V">Ʋ</g>MP</hi> in their extremity, be valued at a High Rate, and that none be ſold under the Rate of a Six Moneths Aſſeſsment the Groſs. And we do hereby give unto our Executors hereafter named all benefit, profit, and ad<g ref="char:EOLhyphen"/>vantage thereby accruing, that they may have cauſe to remember us by a good Token.</p>
+            <p>
+               <hi>ITEM.</hi>
+VVe give and bequeath what we cannot keep, to be imployed towards the repairing of thoſe breaches we
+<pb n="7" facs="tcp:119271:4"/>
+have made both in Church and State, and in particular towards the mending of the City Gates and Port-Culliſes, which as we have had the ſhame of throwing down, ſo our Will is, that we may have the Credit (ſeeing we deſerve to be at the Coſt) of the ſetting up, and to have this <hi>MOTTO</hi> engraven.
+<q>
+                  <l>
+                     <hi>Theſe gates they fell with many a thump</hi>
+                  </l>
+                  <l>
+                     <hi>And were ſet up at the charge of the Rump</hi>
+                  </l>
+               </q>
+            </p>
+            <p>And Laſtly, we do by this our <hi>WILL</hi> nominate, con<g ref="char:EOLhyphen"/>ſtitute, and appoint our loving Friends <hi>Praiſe God Barebone,</hi> together with his late Rabble of Fellow Peti<g ref="char:EOLhyphen"/>tioners to be Executioners of this our Laſt Will and Teſtament, giving unto them the thanke of the Houſe for their good infections; and our <hi>Will</hi> is, that as our Ri<g ref="char:EOLhyphen"/>ſing again, they be put into all places of Profit and Truſt throughout our Dominions: and in the interim we give them a Copy of our Countenance, as a Commiſſion to carry on their Damnable, Curſed; and Cut-throat <hi>Deſigns.</hi>
+            </p>
+            <closer>
+               <signed>In <hi>Witneſſe</hi> whereof to this our <hi>LAST WILL</hi> and <hi>TESTAMENT,</hi> we have ſubſcribed Our <hi>NAME, RVMP</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:119271:5"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Shall deſire thee to take notice that this <hi>Rump-Will,</hi> though it be publiſhed in the Executors names, yet the promulgation thereof I muſt needs take upon my ſelf, and then if thou ſayeſt I might have been better imployed, I ſhall ſay ſo too, but (miſtake me not) not becauſe thou ſayeſt it, but becauſe I think it: And yet let me tell thee, I think I have done well, though I might have done bet<g ref="char:EOLhyphen"/>ter, and thou that findeſt fault mayſt do worſe; but how<g ref="char:EOLhyphen"/>ever if thou doſt not like, thou hadſt beſt look off, which is the beſt Counſel I can at this time give thee, only thus much I'le promiſe thee, that when I have any other Varie<g ref="char:EOLhyphen"/>ties to treat the withal beſides <hi>RVMPS,</hi> thou ſhalt find me more ſolid.</p>
+            <closer>
+               <signed>S. P.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
